@@ -3,7 +3,7 @@ Translate Matrix, Rotate Matrix and Rodrigues Rotate
 
 ![ezgif-2-c0fe4d8eb7](https://user-images.githubusercontent.com/65425355/197337707-1d67af58-5626-48f3-bab7-84611f655f74.gif)
 
-![ezgif-2-c0fe4d8eb7](https://user-images.githubusercontent.com/65425355/197337743-17e1174c-0745-449d-9f71-fc04480eb146.gif)
+![1](https://user-images.githubusercontent.com/65425355/197337766-d1ca9637-2576-4688-9d10-9d36f080402e.jpeg)
 
 ![2](https://user-images.githubusercontent.com/65425355/197337747-e8486231-71d6-43d1-935b-cfc47ffe3cf2.jpeg)
 
